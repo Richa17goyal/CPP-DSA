@@ -1,11 +1,8 @@
 #include<iostream>
 using namespace std;
-
 int main()
 {   
     //FOR LOOP
-
-
      int n;
      cin>>n;
      int sum=0;
